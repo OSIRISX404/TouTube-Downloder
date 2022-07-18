@@ -2,7 +2,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
 
 
-<h1 align="center">Hi 👋, I'm OSIRIS</h1>
+<h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A Python automation developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
