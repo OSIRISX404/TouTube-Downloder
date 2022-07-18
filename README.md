@@ -43,21 +43,24 @@
 
 <h3>INSTALLATION [ Kali & Android ]</h3>
 <ul>
-    <li>apt get install python3</li>
+    <li>apt install git</li>
     <li>git clone git@github.com:OSIRISX404/TouTube-Downloder.git</li>
-    <li>cd </li>
-    <li>python .\NetScanner.py</li>
+    <li>cd TouTube-Downloder</li>
+    <li>ls</li>
+    <li>chmod +x Setup.sh</li>
+    <li>./Setup.sh</li>
+    <li>python VAS_For_Android.py</li>
 </ul>
 
 <h3>INSTALLATION [ Windows ]</h3>
 <ul>
-    <li>pip install python3</li>
-    <li>pip install requests</li>
-    <li>pip install json</li>
-    <li>pip install pyttsx3</li>
-    <li>git clone https://github.com/OSIRISX404/OSIRIS.git</li>
-    <li>cd OSIRIS</li>
-    <li>python .\NetScanner.py</li>
+    <li>apt install git</li>
+    <li>git clone git@github.com:OSIRISX404/TouTube-Downloder.git</li>
+    <li>cd TouTube-Downloder</li>
+    <li>dir</li>
+    <li>chmod +x Setup.sh</li>
+    <li>./Setup.sh</li>
+    <li>python VAS_For_Windows.py</li>
 </ul>
 <br>
 <br>
