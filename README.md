@@ -33,11 +33,11 @@
 
 <h1>VAS Tool</h1>
 <br>
-<img width="%80" src="Screenshot (4).png"><br>
+<img width="%80" src="https://github.com/OSIRISX404/TouTube-Downloder/blob/main/IMG(1).png"><br>
 <br>
 
 <br>
-<img width="%80" src="Screenshot (3).png"><br>
+<img width="%80" src="https://github.com/OSIRISX404/TouTube-Downloder/blob/main/IMG(2).png"><br>
 <br>
 
 
