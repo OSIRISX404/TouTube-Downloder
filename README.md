@@ -1,5 +1,6 @@
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/34220e95746151.5e9ecde696cb0.gif">
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/475eb095746151.5e9ecde695f7a.gif)
+
 
 <h1 align="center">Hi 👋, I'm OSIRIS</h1>
 <h3 align="center">A Python automation developer from India</h3>
@@ -40,7 +41,7 @@
 <br>
 
 
-<h3>INSTALLATION [ KALI ]</h3>
+<h3>INSTALLATION [ Kali & Android ]</h3>
 <ul>
     <li>apt get install python3</li>
     <li>pip install requests</li>
