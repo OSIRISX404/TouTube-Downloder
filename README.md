@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A Python automation developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osirisx404&label=Profile%20views&color=0e75b6&style=flat" alt="osirisx404" /> </p>
 
@@ -20,8 +20,6 @@
 - 💬 Ask me about **Hacking, Website**
 
 - 📫 How to reach me **po1795009@gmail.com**
-
-- ⚡ Fun fact **I Don't Know Anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,7 +52,7 @@
 
 <h3>INSTALLATION [ Windows ]</h3>
 <ul>
-    <li>apt install git</li>
+    <li>https://git-scm.com/downloads</li>
     <li>git clone git@github.com:OSIRISX404/TouTube-Downloder.git</li>
     <li>cd TouTube-Downloder</li>
     <li>dir</li>
